@@ -1,2 +1,2 @@
 # MaterializeTest-
-test websitewebsite 
+test websitewebsite +javascript
